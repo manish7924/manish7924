@@ -100,7 +100,7 @@ val manish = Developer(
   <tr>
     <td width="50%" valign="top">
       <h3>Jarvis AI Assistant</h3>
-      <p>An Iron Man“inspired AI assistant for Android. Wake-word activation, real-time voice commands, object detection via camera, YouTube playback, Wikipedia/weather lookups, and an animated futuristic UI.</p>
+      <p>An Iron Man's inspired AI assistant for Android. Hot-word activation, real-time voice commands, object detection via camera, YouTube playback, Wikipedia/weather lookups, and an animated futuristic UI.</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
         <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white"/>
@@ -111,7 +111,7 @@ val manish = Developer(
     </td>
     <td width="50%" valign="top">
       <h3> Music X</h3>
-      <p>A full-featured music player with MediaSession, album-art UI, per-artist/album filtering, media-style notifications, and smooth dark/light theming ” all built in pure Compose.</p>
+      <p>A full-featured music player with MediaSession, album-art UI, per-artist/album filtering, media-style notifications, and smooth dark/light theming. All built in pure Compose.</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
         <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white"/>
@@ -123,7 +123,7 @@ val manish = Developer(
   <tr>
     <td width="50%" valign="top">
       <h3>X Cart <sub><sup>In Progress</sup></sub></h3>
-      <p>End-to-end e-commerce app with Razorpay payments, real-time order tracking on Google Maps, promo codes, wishlist, FCM notifications, and AI product recommendations.</p>
+      <p>End-to-end E-commerce app with Razorpay payments, real-time order tracking on Google Maps, promo codes, wishlist, FCM notifications, and AI product recommendations.</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
