@@ -1,29 +1,31 @@
-<div align="center">
+
 
 # Android Developer | AI Enthusiast | Kotlin Wizard
 
-![Profile Banner](https://img.shields.io/badge/Android-Developer-green?style=for-the-badge)
-
-[![GitHub](https://img.shields.io/badge/GitHub-manish7924-black?logo=github&style=flat-square)](https://github.com/manish7924)
-[![YouTube](https://img.shields.io/badge/YouTube-TechStark7-red?logo=youtube&style=flat-square)](https://youtube.com/@TechStark7)
-[![Telegram](https://img.shields.io/badge/Telegram-@techstark7-blue?logo=telegram&style=flat-square)](https://t.me/techstark7)
-[![Email](https://img.shields.io/badge/Email-developermanish79%40gmail.com-orange?logo=gmail&style=flat-square)](mailto:developermanish79@gmail.com)
+<div align="center">
+  
+  ![Profile Banner](https://img.shields.io/badge/Android-Developer-green?style=for-the-badge)
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-manish7924-black?logo=github&style=flat-square)](https://github.com/manish7924)
+  [![YouTube](https://img.shields.io/badge/YouTube-TechStark7-red?logo=youtube&style=flat-square)](https://youtube.com/@TechStark7)
+  [![Telegram](https://img.shields.io/badge/Telegram-@techstark7-blue?logo=telegram&style=flat-square)](https://t.me/techstark7)
+  [![Email](https://img.shields.io/badge/Email-developermanish79%40gmail.com-orange?logo=gmail&style=flat-square)](mailto:developermanish79@gmail.com)
 
 </div>
 
-## ðŸ§  About Me
+## 🧠 About Me
 
 I'm a passionate Android Developer with a flair for Jetpack Compose, Kotlin, and AI-powered apps. Inspired by **Iron Man's Jarvis**, I'm building smart assistant apps, music players, and futuristic UIs that blend technology with creativity.
 
-- ðŸ’» Focused on Jetpack Compose, MVVM, and cutting-edge Android UI  
-- ðŸ¤– Building a Jarvis-like AI Assistant App with real-time voice + vision capabilities  
-- ðŸ“± Created 10+ fully-featured Android apps with real-world functionality  
-- ðŸŒ Exploring AI APIs (ChatGPT, Gemini, TTS, Object Detection) for next-gen apps  
-- ðŸ”¥ Strong believer in clean code, sleek UI, and continuous learning  
+- 💻 Focused on Jetpack Compose, MVVM, and cutting-edge Android UI  
+- 🤖 Building a Jarvis-like AI Assistant App with real-time voice + vision capabilities  
+- 📱 Created 10+ fully-featured Android apps with real-world functionality  
+- 🌐 Exploring AI APIs (ChatGPT, Gemini, TTS, Object Detection) for next-gen apps  
+- 🔥 Strong believer in clean code, sleek UI, and continuous learning  
 
 ---
 
-## ðŸ’¼ Technical Skills
+## 💼 Technical Skills
 
 ### Android (Native)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -46,65 +48,66 @@ I'm a passionate Android Developer with a flair for Jetpack Compose, Kotlin, and
 
 ---
 
-## ðŸš€ Featured Projects
+## 🚀 Featured Projects
 
-### ðŸŽ™ï¸ Jarvis AI Assistant App
+### 🎙️ Jarvis AI Assistant App
 An Iron-Man-inspired smart assistant with AI voice commands, YouTube playback, weather, Wikipedia, object detection, maps, and a slick futuristic UI.
 
-**Tech Stack**: Kotlin, Jetpack Compose, OpenAI API, Gemini API, CameraX, Firebase  
+**Tech Stack**: Kotlin, Jetpack Compose, OpenAI API, Gemini API, CameraX, Firebase  
 **Features**:
-- Voice-controlled assistant UI with bottom sheet and circular animation  
-- Embedded YouTube with gesture controls  
-- Real-time search from Google & Wikipedia  
-- AI storytelling, jokes, chatbot, lyrics, and math solving  
-- Offline & online smart responses  
-- Background service, wake on "Jarvis", and default assistant integration  
+- Voice-controlled assistant UI with bottom sheet and circular animation  
+- Embedded YouTube with gesture controls  
+- Real-time search from Google & Wikipedia  
+- AI storytelling, jokes, chatbot, lyrics, and math solving  
+- Offline & online smart responses  
+- Background service, wake on "Jarvis", and default assistant integration  
 
 ---
 
-### ðŸŽµ Music X  
+### 🎵 Music X  
 An advanced Android music app with notifications, swipeable bottom nav, album-art UI, and song management.
 
-**Tech Stack**: Kotlin, Jetpack Compose, MediaSession, Content Resolver  
+**Tech Stack**: Kotlin, Jetpack Compose, MediaSession, Content Resolver  
 **Features**:
-- Media-style notification with full controls  
-- Add to favorites, delete, share, play by artist/album  
-- Dark/light theme support  
-- Beautiful material design UI  
+- Media-style notification with full controls  
+- Add to favorites, delete, share, play by artist/album  
+- Dark/light theme support  
+- Beautiful material design UI  
 
 ---
 
-### ðŸ›’ X Cart *(In Progress)*  
+### 🛒 X cart (In Progress)  
 E-commerce app with payment, real-time tracking, Firebase auth, and Razorpay integration.
 
-**Tech Stack**: Kotlin, Jetpack Compose, Firebase, Razorpay, Google Maps  
+**Tech Stack**: Kotlin, Jetpack Compose, Firebase, Razorpay, Google Maps  
 **Features**:
-- Product filtering, order status tracking  
-- Wishlist, offers, promo code  
-- FCM push notifications  
-- AI-based product recommendations  
+- Product filtering, order status tracking  
+- Wishlist, offers, promo code  
+- FCM push notifications  
+- AI-based product recommendations  
 
 ---
 
-## ðŸ“ˆ GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manish7924&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish7924&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manish7924&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish7924&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
 
-## ðŸŒ Connect with Me
+## 🌐 Connect with Me
 
-- **Email**: [developermanish79@gmail.com](mailto:developermanish79@gmail.com)  
-- **GitHub**: [github.com/manish7924](https://github.com/manish7924)  
-- **YouTube**: [@TechStark7](https://youtube.com/@TechStark7)  
-- **Telegram**: [@techstark7](https://t.me/techstark7)  
+- **Email**: [developermanish79@gmail.com](mailto:developermanish79@gmail.com)  
+- **GitHub**: [github.com/manish7924](https://github.com/manish7924)  
+- **YouTube**: [@TechStark7](https://youtube.com/@TechStark7)  
+- **Telegram**: [@techstark7](https://t.me/techstark7)  
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=manish7924&style=flat-square&color=blueviolet" alt="Profile Views" />
-  <p>ðŸš€ From <a href="https://github.com/manish7924">manish7924</a></p>
+  <img src="https://komarev.com/ghpvc/?username=manish7924&style=flat-square&color=blueviolet" alt="Profile vi
+ews" />
+  <p class="footer-badge">🚀 From <a href="https://github.com/manish7924">manish7924</a></p>
 </div>
