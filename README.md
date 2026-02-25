@@ -37,7 +37,7 @@ val manish = Developer(
 
 ---
 
-## › Tech Stack
+## » Tech Stack
 
 ### Android Core
 
@@ -56,7 +56,7 @@ val manish = Developer(
 
 </div>
 
-### – AI & Machine Learning
+### AI & Machine Learning
 
 <div align="center">
 
@@ -99,8 +99,8 @@ val manish = Developer(
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>ðŸŽ™ï¸ Jarvis AI Assistant</h3>
-      <p>An Iron Manâ€“inspired AI assistant for Android. Wake-word activation, real-time voice commands, object detection via camera, YouTube playback, Wikipedia/weather lookups, and an animated futuristic UI.</p>
+      <h3>Jarvis AI Assistant</h3>
+      <p>An Iron Man“inspired AI assistant for Android. Wake-word activation, real-time voice commands, object detection via camera, YouTube playback, Wikipedia/weather lookups, and an animated futuristic UI.</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
         <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white"/>
@@ -110,8 +110,8 @@ val manish = Developer(
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>ðŸŽµ Music X</h3>
-      <p>A full-featured music player with MediaSession, album-art UI, per-artist/album filtering, media-style notifications, and smooth dark/light theming â€” all built in pure Compose.</p>
+      <h3> Music X</h3>
+      <p>A full-featured music player with MediaSession, album-art UI, per-artist/album filtering, media-style notifications, and smooth dark/light theming ” all built in pure Compose.</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
         <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white"/>
@@ -122,7 +122,7 @@ val manish = Developer(
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>ðŸ›’ X Cart <sub><sup>In Progress</sup></sub></h3>
+      <h3>X Cart <sub><sup>In Progress</sup></sub></h3>
       <p>End-to-end e-commerce app with Razorpay payments, real-time order tracking on Google Maps, promo codes, wishlist, FCM notifications, and AI product recommendations.</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
@@ -132,7 +132,7 @@ val manish = Developer(
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>ðŸŒ¦ï¸ Weather Now</h3>
+      <h3>Weather Now</h3>
       <p>Minimalist weather app with location-aware forecasts, clean Material 3 UI, and smooth animated transitions between weather states.</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
