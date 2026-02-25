@@ -1,29 +1,29 @@
+<div align="center">
+
 # Android Developer | AI Enthusiast | Kotlin Wizard
 
-<div align="center">
-  
-  ![Profile Banner](https://img.shields.io/badge/Android-Developer-green?style=for-the-badge)
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-manish7924-black?logo=github&style=flat-square)](https://github.com/manish7924)
-  [![YouTube](https://img.shields.io/badge/YouTube-TechStark7-red?logo=youtube&style=flat-square)](https://youtube.com/@TechStark7)
-  [![Telegram](https://img.shields.io/badge/Telegram-@techstark7-blue?logo=telegram&style=flat-square)](https://t.me/techstark7)
-  [![Email](https://img.shields.io/badge/Email-developermanish79%40gmail.com-orange?logo=gmail&style=flat-square)](mailto:developermanish79@gmail.com)
+![Profile Banner](https://img.shields.io/badge/Android-Developer-green?style=for-the-badge)
+
+[![GitHub](https://img.shields.io/badge/GitHub-manish7924-black?logo=github&style=flat-square)](https://github.com/manish7924)
+[![YouTube](https://img.shields.io/badge/YouTube-TechStark7-red?logo=youtube&style=flat-square)](https://youtube.com/@TechStark7)
+[![Telegram](https://img.shields.io/badge/Telegram-@techstark7-blue?logo=telegram&style=flat-square)](https://t.me/techstark7)
+[![Email](https://img.shields.io/badge/Email-developermanish79%40gmail.com-orange?logo=gmail&style=flat-square)](mailto:developermanish79@gmail.com)
 
 </div>
 
-## 🧠 About Me
+## ðŸ§  About Me
 
 I'm a passionate Android Developer with a flair for Jetpack Compose, Kotlin, and AI-powered apps. Inspired by **Iron Man's Jarvis**, I'm building smart assistant apps, music players, and futuristic UIs that blend technology with creativity.
 
-- 💻 Focused on Jetpack Compose, MVVM, and cutting-edge Android UI  
-- 🤖 Building a Jarvis-like AI Assistant App with real-time voice + vision capabilities  
-- 📱 Created 10+ fully-featured Android apps with real-world functionality  
-- 🌐 Exploring AI APIs (ChatGPT, Gemini, TTS, Object Detection) for next-gen apps  
-- 🔥 Strong believer in clean code, sleek UI, and continuous learning  
+- ðŸ’» Focused on Jetpack Compose, MVVM, and cutting-edge Android UI  
+- ðŸ¤– Building a Jarvis-like AI Assistant App with real-time voice + vision capabilities  
+- ðŸ“± Created 10+ fully-featured Android apps with real-world functionality  
+- ðŸŒ Exploring AI APIs (ChatGPT, Gemini, TTS, Object Detection) for next-gen apps  
+- ðŸ”¥ Strong believer in clean code, sleek UI, and continuous learning  
 
 ---
 
-## 💼 Technical Skills
+## ðŸ’¼ Technical Skills
 
 ### Android (Native)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -46,9 +46,9 @@ I'm a passionate Android Developer with a flair for Jetpack Compose, Kotlin, and
 
 ---
 
-## 🚀 Featured Projects
+## ðŸš€ Featured Projects
 
-### 🎙️ Jarvis AI Assistant App
+### ðŸŽ™ï¸ Jarvis AI Assistant App
 An Iron-Man-inspired smart assistant with AI voice commands, YouTube playback, weather, Wikipedia, object detection, maps, and a slick futuristic UI.
 
 **Tech Stack**: Kotlin, Jetpack Compose, OpenAI API, Gemini API, CameraX, Firebase  
@@ -62,7 +62,7 @@ An Iron-Man-inspired smart assistant with AI voice commands, YouTube playback, w
 
 ---
 
-### 🎵 Music X  
+### ðŸŽµ Music X  
 An advanced Android music app with notifications, swipeable bottom nav, album-art UI, and song management.
 
 **Tech Stack**: Kotlin, Jetpack Compose, MediaSession, Content Resolver  
@@ -74,7 +74,7 @@ An advanced Android music app with notifications, swipeable bottom nav, album-ar
 
 ---
 
-### 🛒 X cart (In Progress)  
+### ðŸ›’ X Cart *(In Progress)*  
 E-commerce app with payment, real-time tracking, Firebase auth, and Razorpay integration.
 
 **Tech Stack**: Kotlin, Jetpack Compose, Firebase, Razorpay, Google Maps  
@@ -86,7 +86,7 @@ E-commerce app with payment, real-time tracking, Firebase auth, and Razorpay int
 
 ---
 
-## 📈 GitHub Stats
+## ðŸ“ˆ GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manish7924&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -95,7 +95,7 @@ E-commerce app with payment, real-time tracking, Firebase auth, and Razorpay int
 
 ---
 
-## 🌐 Connect with Me
+## ðŸŒ Connect with Me
 
 - **Email**: [developermanish79@gmail.com](mailto:developermanish79@gmail.com)  
 - **GitHub**: [github.com/manish7924](https://github.com/manish7924)  
@@ -105,6 +105,6 @@ E-commerce app with payment, real-time tracking, Firebase auth, and Razorpay int
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=manish7924&style=flat-square&color=blueviolet" alt="Profile views" />
-  <p class="footer-badge">🚀 From <a href="https://github.com/manish7924">manish7924</a></p>
+  <img src="https://komarev.com/ghpvc/?username=manish7924&style=flat-square&color=blueviolet" alt="Profile Views" />
+  <p>ðŸš€ From <a href="https://github.com/manish7924">manish7924</a></p>
 </div>
