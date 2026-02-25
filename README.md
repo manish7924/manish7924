@@ -81,7 +81,7 @@ val manish = Developer(
 
 </div>
 
-###Web (Full-Stack)
+###  Web (Full-Stack)
 
 <div align="center">
 
