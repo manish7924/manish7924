@@ -1,4 +1,5 @@
-# 🚀 Native Android Developer | Tech Enthusiast |
+
+# 🚀 Manish | Android Developer | AI App Builder
 
 <div align="center">
 
@@ -15,110 +16,126 @@
 
 ## 🧠 About Me
 
-I build Android apps that feel alive.
+Android Developer focused on building intelligent, production-ready apps using modern Android architecture and AI integrations.
 
-I’m an Android Developer focused on **Kotlin**, **Jetpack Compose**, and AI-powered applications. I enjoy creating smart systems that combine clean architecture with futuristic user experiences.
+I combine clean code principles, scalable architecture, and smooth UI design to create applications that are fast, maintainable, and future-ready.
 
-### What I Work On
-
-- 📱 Modern Android apps using Jetpack Compose  
-- 🏗️ MVVM architecture + clean code principles  
-- 🤖 AI integrations (LLMs, Vision, TTS, APIs)  
-- 🎨 Performance-first UI design  
-- 🔄 Continuous learning and real-world projects  
+Currently building AI-powered assistant systems inspired by real-world digital companions.
 
 ---
 
-## 💼 Technical Stack
-
-### 🟢 Android Development
-- Kotlin  
-- Jetpack Compose  
-- MVVM Architecture  
-- Room Database  
-- Firebase  
-- CameraX  
-- MediaSession  
-
-### 🧠 AI & Integrations
-- OpenAI API  
-- Google Gemini API  
-- Text-to-Speech  
-- Object Detection  
-- Google Maps API  
-- Razorpay Integration  
-
-### 🛠 Tools
-- Android Studio  
-- Git & GitHub  
-- Figma  
+# 💼 Technical Stack
 
 ---
 
-## 🚀 Featured Projects
+## 🟢 Modern Android Development
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![Material You](https://img.shields.io/badge/Material_You-6200EE?style=for-the-badge)
+![Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-0095D5?style=for-the-badge)
+![Flow](https://img.shields.io/badge/Kotlin_Flow-7F52FF?style=for-the-badge)
+![Hilt](https://img.shields.io/badge/Hilt-3DDC84?style=for-the-badge)
+![Navigation Compose](https://img.shields.io/badge/Navigation_Compose-4285F4?style=for-the-badge)
+![WorkManager](https://img.shields.io/badge/WorkManager-4285F4?style=for-the-badge)
+
+---
+
+## 🏛️ Classic Android (Strong Foundation)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge)
+![ViewBinding](https://img.shields.io/badge/View_Binding-3DDC84?style=for-the-badge)
+![LiveData](https://img.shields.io/badge/LiveData-FF6F00?style=for-the-badge)
+![Retrofit](https://img.shields.io/badge/Retrofit-009688?style=for-the-badge)
+![Volley](https://img.shields.io/badge/Volley-3DDC84?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge)
+![Room](https://img.shields.io/badge/Room-DB-F57C00?style=for-the-badge)
+
+---
+
+## 🤖 AI & Smart Integrations
+
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=for-the-badge)
+![CameraX](https://img.shields.io/badge/CameraX-9C27B0?style=for-the-badge)
+![Text to Speech](https://img.shields.io/badge/Text_to_Speech-FF9800?style=for-the-badge)
+![Object Detection](https://img.shields.io/badge/Object_Detection-673AB7?style=for-the-badge)
+
+---
+
+## 🔥 Backend, Cloud & APIs
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Cloud Firestore](https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=for-the-badge)
+![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge)
+![FCM](https://img.shields.io/badge/Firebase_Cloud_Messaging-FFCA28?style=for-the-badge)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps)
+
+---
+
+## 🛠 Development Tools
+
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
+![Figma](https://img.shields.io/badge/Figma-0AC97F?style=for-the-badge&logo=figma)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+---
 
 ### 🎙️ Jarvis AI Assistant
 
-A futuristic AI assistant app with real-time voice interaction, vision capabilities, and smart automation.
+AI-powered voice assistant with real-time vision, search, automation, and smart responses.
 
-**Built With:** Kotlin, Jetpack Compose, OpenAI API, Gemini API, CameraX, Firebase  
-
-**Key Features**
-- Voice-controlled animated assistant UI  
-- Wake-word activation system  
-- AI chat, storytelling, jokes, and math solving  
-- Embedded YouTube playback  
-- Wikipedia & Google search integration  
-- Object detection using CameraX  
-- Offline + online hybrid responses  
+**Highlights**
+- Wake-word detection  
+- Voice-controlled animated UI  
+- Chatbot + AI storytelling  
+- Camera-based object detection  
+- YouTube & web integration  
 - Background service support  
-- Default assistant integration  
+- Offline + online response system  
 
 ---
 
 ### 🎵 Music X
 
-A modern offline music player focused on clean UI and smooth performance.
+Modern offline music player with clean UI and advanced playback controls.
 
-**Built With:** Kotlin, Jetpack Compose, MediaSession  
-
-**Features**
-- Media-style notifications with playback controls  
-- Album-art driven UI  
-- Favorites, delete, and share options  
-- Artist & album filtering  
+**Highlights**
+- MediaSession integration  
+- Notification controls  
+- Album-based navigation  
+- Favorites and song management  
 - Dark / Light theme support  
-- Smooth bottom navigation  
 
 ---
 
 ### 🛒 X Cart (In Progress)
 
-An e-commerce Android app with payments, authentication, and real-time updates.
-
-**Built With:** Kotlin, Jetpack Compose, Firebase, Razorpay, Google Maps  
-
-**Planned Features**
-- Product filtering & search  
-- Order tracking system  
-- Wishlist & promo codes  
-- Push notifications (FCM)  
-- AI-powered product recommendations  
+E-commerce Android app with authentication, payments, tracking, and AI-based recommendations.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=manish7924&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish7924&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=manish7924&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish7924&layout=compact&theme=tokyonight" />
 
 </div>
 
 ---
 
-## 🌐 Let’s Connect
+# 🌐 Connect With Me
 
 - 📧 Email: developermanish79@gmail.com  
 - 💻 GitHub: https://github.com/manish7924  
@@ -129,8 +146,8 @@ An e-commerce Android app with payments, authentication, and real-time updates.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=manish7924&style=flat-square&color=blueviolet" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=manish7924&style=flat-square&color=blueviolet" />
 
-**Building smart apps. Shipping real projects. Learning every day.**
+### Building intelligent Android apps with modern architecture and AI integration.
 
 </div>
