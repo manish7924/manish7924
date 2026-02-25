@@ -11,13 +11,13 @@
 [![GitHub](https://img.shields.io/badge/GitHub-manish7924-181717?style=flat-square&logo=github)](https://github.com/manish7924)
 [![YouTube](https://img.shields.io/badge/YouTube-TechStark7-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@TechStark7)
 [![Email](https://img.shields.io/badge/Email-developermanish79@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:developermanish79@gmail.com)
-[![Location](https://img.shields.io/badge/ðŸ“-Bhopal%2C%20India-1a1a2e?style=flat-square)](https://github.com/manish7924)
+[![Location](https://img.shields.io/badge/-Bhopal%2C%20India-1a1a2e?style=flat-square)](https://github.com/manish7924)
 
 </div>
 
 ---
 
-## ðŸ§‘â€ðŸ’» About Me
+## » About Me
 
 I'm an Android Developer who loves crafting apps that feel smart, fast, and intuitive. My work sits at the intersection of **clean architecture**, **beautiful UI**, and **AI-powered experiences** â€” think less boilerplate, more magic.
 
@@ -31,15 +31,15 @@ val manish = Developer(
     experience = "4+ years",
     currentlyBuilding = "Jarvis â€” an Iron Man inspired AI Assistant ðŸ¤–",
     learning   = listOf("Multimodal AI", "On-device ML", "KMP"),
-    funFact    = "My apps have more personality than most people ðŸ˜„"
+    funFact    = "My apps have more personality than most people „"
 )
 ```
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## › Tech Stack
 
-### ðŸ“± Android Core
+### Android Core
 
 <div align="center">
 
@@ -56,7 +56,7 @@ val manish = Developer(
 
 </div>
 
-### ðŸ¤– AI & Machine Learning
+### – AI & Machine Learning
 
 <div align="center">
 
@@ -69,7 +69,7 @@ val manish = Developer(
 
 </div>
 
-### â˜ï¸ Backend & Cloud
+### Backend & Cloud
 
 <div align="center">
 
@@ -81,7 +81,7 @@ val manish = Developer(
 
 </div>
 
-### ðŸŒ Web (Full-Stack)
+###Web (Full-Stack)
 
 <div align="center">
 
@@ -94,7 +94,7 @@ val manish = Developer(
 
 ---
 
-## ðŸš€ Featured Projects
+## Featured Projects
 
 <table>
   <tr>
@@ -146,7 +146,7 @@ val manish = Developer(
 
 ---
 
-## ðŸ“Š GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -165,15 +165,15 @@ val manish = Developer(
 
 ---
 
-## ðŸ“« Get in Touch
+## « Get in Touch
 
 <div align="center">
 
 | Platform | Link |
 |----------|------|
-| ðŸ“§ Email | [developermanish79@gmail.com](mailto:developermanish79@gmail.com) |
-| ðŸ™ GitHub | [github.com/manish7924](https://github.com/manish7924) |
-| ðŸŽ¬ YouTube | [youtube.com/@TechStark7](https://youtube.com/@TechStark7) |
+| Email | [developermanish79@gmail.com](mailto:developermanish79@gmail.com) |
+| ™ GitHub | [github.com/manish7924](https://github.com/manish7924) |
+| YouTube | [youtube.com/@TechStark7](https://youtube.com/@TechStark7) |
 | ðŸ“ Location | Bhopal, Madhya Pradesh, India |
 
 </div>
