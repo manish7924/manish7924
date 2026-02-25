@@ -24,15 +24,27 @@ I'm an Android Developer who loves crafting apps that feel smart, fast, and intu
 Currently pursuing **B.Tech in Information Technology** at Oriental Group of Institutes, Bhopal, while shipping real apps with real users.
 
 ```kotlin
-val manish = Developer(
-    name       = "Manish Chidar",
-    role       = "Android Developer",
-    focus      = listOf("Jetpack Compose", "Kotlin", "AI Integration"),
-    experience = "4+ years",
-    currentlyBuilding = "Jarvis â€” an Iron Man inspired AI Assistant ðŸ¤–",
-    learning   = listOf("Multimodal AI", "On-device ML", "KMP"),
-    funFact    = "My apps have more personality than most people „"
+import kotlinx.coroutines.*
+import kotlin.time.Duration.Companion.hours
+
+data class Developer(
+    val name: String,
+    val stack: List<String>,
+    val building: String
 )
+
+val manish = Developer(
+    name = "Manish Chidar",
+    stack = listOf("Kotlin", "Compose", "AI"),
+    building = "Jarvis 🤖"
+)
+
+suspend fun thrive() = coroutineScope {
+    while (true) {
+        println("Code. Learn. Ship.")
+        delay(8.hours)
+    }
+}
 ```
 
 ---
