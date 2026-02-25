@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=//%20Hello%20World!&fontSize=20&fontColor=ffffff&animation=fadeIn" />
 
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=Hey%2C%20I'm%20Manish%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Android%20Developer%20%7C%20Kotlin%20%7C%20AI%20Builder&descSize=18&descAlignY=75&descColor=a0c4ff" />
 
 <br/>
