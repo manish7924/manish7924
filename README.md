@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Manish%20Chidar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Android%20Developer&fontSize=70&fontColor=ffffff&animation=fadeIn" />
 
-# Android Developer | Kotlin | Jetpack Compose | AI Integration
+# Full Stack Android Developer | KMP | Jetpack Compose | AI Developer & Tech Enthusiast| 
 
 </div>
 
@@ -14,8 +14,6 @@ Android Developer with 4+ years of experience designing and delivering productio
 
 Specialized in Kotlin and Jetpack Compose with strong expertise in MVVM and Clean Architecture. Experienced in integrating AI services, real-time systems, and scalable backend solutions to build performant and maintainable Android applications.
 
-Currently pursuing B.Tech in Information Technology  
-Oriental Group of Institutes, Bhopal
 
 ---
 
