@@ -1,4 +1,4 @@
-# 🚀 Manish | Android Developer | AI App Builder
+# 🚀 Native Android Developer | Tech Enthusiast |
 
 <div align="center">
 
