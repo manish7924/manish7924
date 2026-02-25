@@ -19,7 +19,7 @@
 
 ## » About Me
 
-I'm an Android Developer who loves crafting apps that feel smart, fast, and intuitive. My work sits at the intersection of **clean architecture**, **beautiful UI**, and **AI-powered experiences** â€” think less boilerplate, more magic.
+I'm an Android Developer who loves crafting apps that feel smart, fast, and intuitive. My work sits at the intersection of **clean architecture**, **beautiful UI**, and **AI-powered experiences**” think less boilerplate, more magic.
 
 Currently pursuing **B.Tech in Information Technology** at Oriental Group of Institutes, Bhopal, while shipping real apps with real users.
 
