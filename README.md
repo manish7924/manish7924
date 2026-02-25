@@ -172,9 +172,9 @@ val manish = Developer(
 | Platform | Link |
 |----------|------|
 | Email | [developermanish79@gmail.com](mailto:developermanish79@gmail.com) |
-| ™ GitHub | [github.com/manish7924](https://github.com/manish7924) |
+| GitHub | [github.com/manish7924](https://github.com/manish7924) |
 | YouTube | [youtube.com/@TechStark7](https://youtube.com/@TechStark7) |
-| ðŸ“ Location | Bhopal, Madhya Pradesh, India |
+| Location | Bhopal, Madhya Pradesh, India |
 
 </div>
 
@@ -186,7 +186,7 @@ val manish = Developer(
 
 <br/><br/>
 
-> *"Code is like humor. When you have to explain it, it's bad."* â€” Cory House
+> *"Code is like humor. When you have to explain it, it's bad."* Cory House
 
 <br/>
 
